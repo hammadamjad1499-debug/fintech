@@ -1,3 +1,5 @@
+https://hammadamjad1499-debug-fintech-app-ixwpkz.streamlit.app/
+
 # FinWise AI -- AI-Powered Personal Financial Analysis & Smart Budget Assistant
 
 ## 1. Project Overview
